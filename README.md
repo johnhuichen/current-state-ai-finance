@@ -15,6 +15,7 @@ It maintains a list of:
 1. [Research Papers](#research-papers)
 1. [Start-ups](#start-ups)
 1. [Fundings](#fundings)
+1. [Technologies](#technologies)
 
 ## Repositories
 
@@ -25,8 +26,6 @@ It maintains a list of:
 ![OpenBB demo](https://github.com/johnhuichen/current-state-finance-AI/blob/main/assets/openbb-demo.webp)
 
 OpenBB is an open-source financial data platform that integrates nearly 100 data sources, providing a comprehensive and modular ecosystem for financial analysis and investment research.
-
-OpenBB owns the following notable repositories (non-exhaustive list):
 
 #### [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)
 
@@ -39,8 +38,6 @@ OpenBBTerminal is an open-source investment research platform designed to provid
 ![GitHub Org's stars](https://img.shields.io/github/stars/AI4Finance-Foundation)
 
 AI4Finance is a nonprofit organization dedicated to advancing artificial intelligence in the financial sector through open-source projects and resources. 
-
-AI4Finance owns the following notable repositories (non-exhaustive list):
 
 #### [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
 
@@ -74,4 +71,42 @@ TODO
 
 TODO
 
-[Top](#table-of-contents)
+## Technologies
+
+### Python
+
+- [MplFinance](https://github.com/matplotlib/mplfinance)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/matplotlib/mplfinance)
+
+Financial Markets Data Visualization
+
+- [LightGBM](https://github.com/microsoft/LightGBM)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/microsoft/LightGBM)
+
+A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+
+- [Pyfolio](https://github.com/quantopian/pyfolio)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/quantopian/pyfolio)
+
+Portfolio and risk analytics in Python
+
+- [Backtrader](https://github.com/mementum/backtrader)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/mementum/backtrader)
+
+Python Backtesting library for trading strategies
+
+### Rust
+
+- [Candle](https://github.com/huggingface/candle)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/huggingface/candle)
+
+Minimalist ML framework for Rust
+
+
+
+[Back to Table of Contents](#table-of-contents)
