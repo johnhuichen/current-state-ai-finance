@@ -16,6 +16,7 @@ It maintains a list of:
 1. [Start-ups](#start-ups)
 1. [Fundings](#fundings)
 1. [Technologies](#technologies)
+1. [Data Sources](#data-sources)
 
 ## Repositories
 
@@ -107,6 +108,12 @@ Python Backtesting library for trading strategies
 
 Minimalist ML framework for Rust
 
+## Data Sources
+
+- [SEC Financial Statement Datasets](https://www.sec.gov/dera/data/financial-statement-data-sets)
+- [CIK-Ticker Mapping](https://github.com/jadchaar/sec-cik-mapper)
+- [Kaggle Stock Market Dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
 
 
 [Back to Table of Contents](#table-of-contents)
+
