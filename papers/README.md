@@ -2,7 +2,13 @@
 
 1. [LLM Models](#llm-models)
 1. [AI Agents](#ai-agents)
-1. [Not LLM](#not-llm)
+1. [RAG](#rag)
+1. [Linear Regression](#linear-regression)
+1. [Decision Tree](#decision-tree)
+1. [Gradient Boosting](#gradient-boosting)
+1. [K-means](#k-means)
+1. [Fundamental Analysis](#fundamental-analysis)
+1. [Sentiment Analysis](#sentiment-analysis)
 
 ## LLM Models
 
@@ -12,6 +18,30 @@
 
 - [FinRobot:An Open-Source AI Agent Platform for Financial Applications using Large Language Models](https://arxiv.org/abs/2405.14767)
 
-## Not LLM
+## Rag
+
+- [FinRobot:An Open-Source AI Agent Platform for Financial Applications using Large Language Models](https://arxiv.org/abs/2405.14767)
+
+## Linear Regression
 
 - [An exploratory data analysis approach for analyzing financial accounting data using machine learning](https://www.sciencedirect.com/science/article/pii/S2772662223000528)
+
+## Decision Tree
+
+- [An exploratory data analysis approach for analyzing financial accounting data using machine learning](https://www.sciencedirect.com/science/article/pii/S2772662223000528)
+
+## Gradient Boosting
+
+- [An exploratory data analysis approach for analyzing financial accounting data using machine learning](https://www.sciencedirect.com/science/article/pii/S2772662223000528)
+
+## K-Means
+
+- [An exploratory data analysis approach for analyzing financial accounting data using machine learning](https://www.sciencedirect.com/science/article/pii/S2772662223000528)
+
+## Fundamental Analysis
+
+- [An exploratory data analysis approach for analyzing financial accounting data using machine learning](https://www.sciencedirect.com/science/article/pii/S2772662223000528)
+
+## Sentiment Analysis
+
+- [FinRobot:An Open-Source AI Agent Platform for Financial Applications using Large Language Models](https://arxiv.org/abs/2405.14767)
