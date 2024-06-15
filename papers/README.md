@@ -9,6 +9,7 @@
 1. [K-means](#k-means)
 1. [Fundamental Analysis](#fundamental-analysis)
 1. [Sentiment Analysis](#sentiment-analysis)
+1. [Trading Strategy](#trading-strategy)
 
 ## LLM Models
 
@@ -33,6 +34,7 @@
 ## Gradient Boosting
 
 - [An exploratory data analysis approach for analyzing financial accounting data using machine learning](https://www.sciencedirect.com/science/article/pii/S2772662223000528)
+- [Predicting Stock Returns from Company Financials and Machine Learning](https://www.atlantis-press.com/proceedings/wctp-23/125998941)
 
 ## K-Means
 
@@ -45,3 +47,7 @@
 ## Sentiment Analysis
 
 - [FinRobot:An Open-Source AI Agent Platform for Financial Applications using Large Language Models](https://arxiv.org/abs/2405.14767)
+
+## Trading Strategy
+
+- [Predicting Stock Returns from Company Financials and Machine Learning](https://www.atlantis-press.com/proceedings/wctp-23/125998941)
