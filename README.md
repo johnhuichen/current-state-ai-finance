@@ -1,3 +1,14 @@
+# Table of Contents
+
+1. [Mission and Value](#mission-and-value)
+1. [Disclaimer](#disclaimer)
+1. [Repositories](#repositories)
+1. [Research Papers](#research-papers)
+1. [Technologies](#technologies)
+1. [Data Sources](#data-sources)
+1. [Start-ups](#start-ups)
+1. [Fundings](#fundings)
+
 # Mission and Value
 
 This project focuses on current state of AI research in fundamental analysis as well as some interest in sentiment analysis. By providing better understanding of what is good and bad investment in the financial market, this project hopes to contribute to the stability of global financial market in the future.
@@ -12,19 +23,6 @@ This project is led by nonprofit initiatives. It does not receive fundings to pr
 
 The project participants are affliated with these organizations and do not represent their interests as project contributors:
 - [Cliff Gosling Inc.](https://www.linkedin.com/company/cliffgosling-inc)
-
-# Table of Contents
-
-This project tracks the current state of AI Finance development.
-
-It maintains a list of:
-
-1. [Repositories](#repositories)
-1. [Research Papers](#research-papers)
-1. [Start-ups](#start-ups)
-1. [Fundings](#fundings)
-1. [Technologies](#technologies)
-1. [Data Sources](#data-sources)
 
 ## Repositories
 
