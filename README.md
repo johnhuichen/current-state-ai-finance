@@ -54,14 +54,6 @@ FinRL: Financial Reinforcement Learning.
 
 [Click here](/papers)
 
-## Startups
-
-TODO
-
-## Fundings
-
-TODO
-
 ## Technologies
 
 ### Python
@@ -96,4 +88,12 @@ Minimalist ML framework for Rust
 
 
 [Back to Table of Contents](#table-of-contents)
+
+## Startups
+
+TODO
+
+## Fundings
+
+TODO
 
