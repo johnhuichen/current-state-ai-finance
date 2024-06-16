@@ -58,13 +58,16 @@ FinRL: Financial Reinforcement Learning.
 
 ### Machine Learning Methodologies
 
-- [KMeans Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
+- [K Means Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
+- [Support Vector Machine(SVM)](https://en.wikipedia.org/wiki/Support_vector_machine)
 - [Decision Tree](https://en.wikipedia.org/wiki/Decision_tree)
 - [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
 - [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting)
 - [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
-- [Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)
+- [Recurrent Neural Network(RNN)](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+- [Long-Short Term Memory(LSTM)](https://en.wikipedia.org/wiki/Long_short-term_memory)
+- [Large Language Model(LLM)](https://en.wikipedia.org/wiki/Large_language_model)
 - [AI Agent](https://en.wikipedia.org/wiki/Intelligent_agent)
 
 ### Python
