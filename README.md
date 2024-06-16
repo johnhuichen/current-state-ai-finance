@@ -1,8 +1,16 @@
+# Mission and Value
+
+This project focuses on current state of AI research in fundamental analysis as well as some interest in sentiment analysis. By providing better understanding of what is good and bad investment in the financial market, this project hopes to contribute to the stability of global financial market in the future.
+
+It does not focus on short term predictions (e.g. price movement) or day trading strategy. Because price can be sensational in a short time period, predictions are dangerously speculative.
+
+Some resources linked in the project may focus on automated trading algorithms or price prediction, and the readers should know that this project takes a neutral stance.
+
 # Disclaimer
 
-The project is led by nonprofit initiatives. It does not receive fundings to promote or advertise for any individual, any organization or any organization's products.
+This project is led by nonprofit initiatives. It does not receive fundings to promote or advertise any individual, organization or organization's products.
 
-The project participants are affliated with following organizations and do not represent these organizations in their role as contributors to the project.
+The project participants are affliated with these organizations and do not represent their interests as project contributors:
 - [Cliff Gosling Inc.](https://www.linkedin.com/company/cliffgosling-inc)
 
 # Table of Contents
@@ -22,8 +30,6 @@ It maintains a list of:
 
 ### [OpenBB (Updated 14-06-2024)](https://github.com/OpenBB-finance) ![GitHub Org's stars](https://img.shields.io/github/stars/OpenBB-finance)
 
-![OpenBB demo](https://github.com/johnhuichen/current-state-finance-AI/blob/main/assets/openbb-demo.webp)
-
 OpenBB is an open-source financial data platform that integrates nearly 100 data sources, providing a comprehensive and modular ecosystem for financial analysis and investment research.
 
 #### [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal)
@@ -36,17 +42,15 @@ AI4Finance is a nonprofit organization dedicated to advancing artificial intelli
 
 #### [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot)
 
-![FinRobot demo](https://github.com/johnhuichen/current-state-finance-AI/blob/main/assets/finrobot-demo.png)
-
-FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀
+FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs
 
 #### [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT)
 
-FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.
+FinGPT: Open-Source Financial Large Language Models
 
 #### [FinRL](https://github.com/AI4Finance-Foundation/FinRL) ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL)
 
-FinRL: Financial Reinforcement Learning. 🔥
+FinRL: Financial Reinforcement Learning.
 
 ## Research Papers
 
