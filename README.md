@@ -56,6 +56,17 @@ FinRL: Financial Reinforcement Learning.
 
 ## Technologies
 
+### Machine Learning Methodologies
+
+- [KMeans Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
+- [Decision Tree](https://en.wikipedia.org/wiki/Decision_tree)
+- [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
+- [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting)
+- [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
+- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+- [Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)
+- [AI Agent](https://en.wikipedia.org/wiki/Intelligent_agent)
+
 ### Python
 
 - [MplFinance](https://github.com/matplotlib/mplfinance) ![GitHub Org's stars](https://img.shields.io/github/stars/matplotlib/mplfinance)
