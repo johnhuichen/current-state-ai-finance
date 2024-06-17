@@ -11,11 +11,9 @@
 
 # Mission and Value
 
-This project focuses on current state of AI research in fundamental analysis as well as some interest in sentiment analysis. By providing better understanding of what is good and bad investment in the financial market, this project hopes to contribute to the stability of global financial market in the future.
+This project focuses on current state of AI research in fundamental analysis as well as sentiment analysis. By understanding better the quality of investements in the financial market, this project hopes to contribute to the stability of global financial market in the future.
 
-It does not focus on short term predictions (e.g. price movement) or day trading strategy. Because price can be sensational in a short time period, predictions are dangerously speculative.
-
-Some resources linked in the project may focus on automated trading algorithms or price prediction, and the readers should know that this project takes a neutral stance.
+It does not focus on short term predictions (e.g. price movement) or day trading strategy. Some resources linked in the project may focus on automated trading algorithms or price prediction, and the readers should know that this project takes a neutral stance.
 
 # Disclaimer
 
@@ -26,29 +24,21 @@ The project participants are affliated with these organizations and do not repre
 
 ## Repositories
 
-### [OpenBB (Updated 14-06-2024)](https://github.com/OpenBB-finance) ![GitHub Org's stars](https://img.shields.io/github/stars/OpenBB-finance)
+### [OpenBB](https://github.com/OpenBB-finance) ![GitHub Org's stars](https://img.shields.io/github/stars/OpenBB-finance)
 
 OpenBB is an open-source financial data platform that integrates nearly 100 data sources, providing a comprehensive and modular ecosystem for financial analysis and investment research.
 
 #### [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal)
 
-OpenBBTerminal is an open-source investment research platform designed to provide comprehensive financial data and analysis tools for everyone, featuring capabilities for analyzing stocks, cryptocurrencies, and other financial instruments.
+### [AI4Finance Foundation](https://github.com/AI4Finance-Foundation) ![GitHub Org's stars](https://img.shields.io/github/stars/AI4Finance-Foundation)
 
-### [AI4Finance Foundation (Updated 14-06-2024)](https://github.com/AI4Finance-Foundation) ![GitHub Org's stars](https://img.shields.io/github/stars/AI4Finance-Foundation)
-
-AI4Finance is a nonprofit organization dedicated to advancing artificial intelligence in the financial sector through open-source projects and resources. 
+AI4Finance is a nonprofit organization dedicated to advancing artificial intelligence in the financial sector through open-source projects and resources.
 
 #### [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot)
 
-FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs
-
 #### [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT)
 
-FinGPT: Open-Source Financial Large Language Models
-
 #### [FinRL](https://github.com/AI4Finance-Foundation/FinRL) ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL)
-
-FinRL: Financial Reinforcement Learning.
 
 ## Research Papers
 
@@ -99,6 +89,7 @@ Minimalist ML framework for Rust
 - [SEC Financial Statement Datasets](https://www.sec.gov/dera/data/financial-statement-data-sets)
 - [CIK-Ticker Mapping](https://github.com/jadchaar/sec-cik-mapper)
 - [Kaggle Stock Market Dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
+- [Yahoo Finance(Gold Plan)](https://finance.yahoo.com)
 
 
 [Back to Table of Contents](#table-of-contents)
